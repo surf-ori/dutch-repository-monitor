@@ -2,8 +2,8 @@
 # OpenAIRE Client ID and Client Secret 
 #   Required to obtain API access token.
 #   Register a Service first here. [https://develop.openaire.eu/apis]
-CLIENT_ID: "bb32b0f7-836e-4ab3-a090-e05cb6c7e185"
-CLIENT_SECRET: "AIS5uLhg3dOME2gnYVpDGDkn6C43giqyp4YkxQ6ABmSB17YxF6x_IadTot8RD-k9R_jwVyrLHZpc-Q__oOThPLQ"
+CLIENT_ID: "USE YOUR OWN"
+CLIENT_SECRET: "USE YOUR OWN"
 OpenAIRE_API: "http://api.openaire.eu/graph/v1/"
 Org_data_file: "data/nl-orgs-baseline.xlsx"
 auth_url: "https://aai.openaire.eu/oidc/token"
